@@ -20,9 +20,9 @@ spec:
     mode: enabled
   values:
     replicaCount: 2
-    appVersion: "7dc6b787a21171afa61204e14ca6b42d83b76dc0"
+    appVersion: "3f050ef4af16715189b5bd17832a6e3730310c4e"
     image:
       repository: "ghcr.io/dunmer32/devops-lab"
-      tag: "7dc6b787a21171afa61204e14ca6b42d83b76dc0"
+      tag: "3f050ef4af16715189b5bd17832a6e3730310c4e"
     serviceMonitor:
       enabled: true
